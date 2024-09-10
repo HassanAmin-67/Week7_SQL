@@ -1,0 +1,16 @@
+1. Characterizing the Audio Aura
+
+To get a sense of a listener’s musical vibe from their top 100 streamed songs in 2018, we look at the average energy, danceability, and valence of those tracks:
+Energy tells us how intense and lively the music is. If the average energy is high, it means the listener likely enjoys more energetic and upbeat tunes.
+Danceability indicates how good a song is for dancing. A high average here suggests the listener prefers tracks that are great for hitting the dance floor.
+Valence measures the overall mood of the music. A high average valence means the listener leans towards happier and more positive songs.
+
+2. Limitations and Improvements
+
+There are a few things to keep in mind with this method:
+Lack of Context: Averaging these values might not capture the full picture. For instance, if a few songs with extreme values are included, they could skew the results.
+Data Homogeneity: If the top 100 songs are from a specific genre or time period, this might not fully represent the listener’s tastes across different genres or times.
+
+To get a more accurate picture of the listener’s preferences:
+Include More Features: Adding details like tempo, genre, or the time of year the songs were released could give a richer view of musical taste.
+Weighted Averages: Using weighted averages based on how often songs are played or the time they’re from might better reflect the listener’s overall habits.
